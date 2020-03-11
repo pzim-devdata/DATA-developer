@@ -45,3 +45,7 @@ Correlations des votes entre le premier tour et le second tour pour Hollande et 
 Réparition des votes au premier tour et taux de chomage par département :
 
 ![alt text](https://github.com/pzim-devdata/DATA-developer/blob/master/data-viz/static/R%C3%A9parition%20des%20votes%20au%20premier%20tour%20et%20taux%20de%20chomage%20par%20d%C3%A9partement%20(en%20_).png)
+
+----------------------------------
+
+[Plus de graphes](https://github.com/pzim-devdata/DATA-developer/tree/master/data-viz/static)

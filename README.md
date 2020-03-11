@@ -1,4 +1,4 @@
-# Projets effectués en tant que Développeur DATA :
+# Projets effectués en tant que Développeur Python DATA :
 - [Chef-d-oeuvre](https://github.com/pzim-devdata/DATA-developer#--chef-d-oeuvre)
 - [Work experience in a company](https://github.com/pzim-devdata/DATA-developer#--work-experience)
 - [Data Viz](https://github.com/pzim-devdata/DATA-developer#--data-viz)

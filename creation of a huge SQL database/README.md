@@ -48,7 +48,7 @@ INSERT INTO customers1 VALUES (
 ------------------------------------
 
 
-Le MSD obtenu à partir du cahier des chages :
+Le MCD obtenu à partir du cahier des chages :
 
 ![alt text](https://github.com/pzim-devdata/DATA-developer/blob/master/creation%20of%20a%20huge%20SQL%20database/MCD.png)
 

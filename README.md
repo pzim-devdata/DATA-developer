@@ -62,7 +62,7 @@ Il s'agit d'un projet de Data Viz écrit en Python qui analyses les éléctions 
 Le projet consiste à :
 
 - Nettoyer et ordonner des données avec Python importées depuis des sources Internet comme l'INSEE
-- Créer de la DataViz avec les libraires matplotlib matplotlib, pandas et numpy
+- Créer de la DataViz avec les libraires matplotlib, pandas et numpy
 - Créer une carte interative avec folium
 - Etudier les corrélations avec seaborn
 - Rendre les données exploitables pour un Data Anlayst à travers une application Flask

@@ -2,7 +2,7 @@
 ## Il s'agit d'un projet de Data Viz écrit en Python.
 ### [Télécharger le fichier zip data-viz :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/data-viz.zip)
 
-![Consulter le notebook Python:blue_book:](Projet éléctions.pdf):blue_book:
+![Consulter le notebook Python:blue_book:](Projet éléctions.pdf)
 
 [Télécharger le notebook Python:inbox_tray:](https://github.com/pzim-devdata/DATA-developer/raw/master/data-viz/Projet%20%C3%A9l%C3%A9ctions.pdf)
 

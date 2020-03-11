@@ -75,6 +75,9 @@ Le projet consiste à :
 - Créer un script de requêtes pour tester la base de données
 - Sauvegarder la base de données
 
+## - [Other projects](
+Vous pouvez consulter la totalité des travaux sur mon [Drive :blue_book:](
+
 
 
 

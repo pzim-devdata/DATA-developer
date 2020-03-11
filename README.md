@@ -9,7 +9,6 @@ Il s'agit du projet de fin de formation utilisant Python, MongoDB et MySQL.
 
 [Téléchargez le rapport:inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/Rapport.pdf)
 
-----------------------
 
 Le projet consiste à :
 

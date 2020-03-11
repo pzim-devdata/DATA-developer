@@ -1,7 +1,7 @@
 # Projets effectués en tant que Développeur DATA :
 
 ## - [Chef-d-oeuvre](https://github.com/pzim-devdata/DATA-developer/tree/master/chef-d'oeuvre)
-Il s'agit du projet de fin de formation utilisant Python, MongoDB et MySQL.
+Il s'agit du projet de fin de formation utilisant Python, MongoDB et MySQL
 
 [Télécharger le projet :inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/chef_d_oeuvre.zip)
 
@@ -23,7 +23,7 @@ Le projet consiste à :
 --------------------------------------------
 
 ## - [Work experience](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience)
-Il s'agit des programmes effectués durant mon stage en entreprise.
+Il s'agit des programmes effectués durant mon stage en entreprise
 
 [Télécharger tout le projet :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/work-experiencer.zip)
 
@@ -61,7 +61,7 @@ Le projet consiste à :
 
 --------------------------------------------
 
-##- [Creation of a huge SQL database](https://github.com/pzim-devdata/DATA-developer/tree/master/creation%20of%20a%20huge%20SQL%20database)
+## - [Creation of a huge SQL database](https://github.com/pzim-devdata/DATA-developer/tree/master/creation%20of%20a%20huge%20SQL%20database)
 Il s'agit de créer une base de données SQL pour une chaine commerciale avec un grand nombre de données 
 
 [Télécharger le projet :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/creation.of.a.huge.SQL.database.zip)

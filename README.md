@@ -6,6 +6,9 @@
 - [Other projects](https://github.com/pzim-devdata/DATA-developer/blob/master/README.md#--other-projects)
 
 
+[Mes certifications :blue_book:](https://github.com/pzim-devdata/Certifications/blob/master/README.md)
+
+
 ## - [Chef-d-oeuvre](https://github.com/pzim-devdata/DATA-developer/tree/master/chef-d'oeuvre)
 Il s'agit du projet de fin de formation utilisant Python, MongoDB et MySQL
 

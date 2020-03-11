@@ -1,0 +1,96 @@
+(base) pierre@simplon-thinkpad-t430:~/Documents/chef_d_oeuvre$ python "/home/pierre/Documents/chef_d_oeuvre/2 Integrer dans une BDD et mettre a disposition en format Python.py" 
+Veuiller entrer le mot de passe SMTP :
+PROGRAMME DEMARRE A : 12:54:45 , LE 13/12/2019
+I. Exportation des CSVs vers une base de donnée mySQL :
+Connected to DB: localhost
+Attribution des droits pour MySQL pour charger les CSVs
+Création de la base de données IDF
+Création de la table 'Coordonnees_geo'
+Intégration des données dans la table
+Création de la table 'Villes'
+Intégration des données dans la table
+Création de la table 'Distance_voiture'
+Intégration des données dans la table
+Création de la table 'Distance_voiture_pointe'
+Intégration des données dans la table
+Création de la table 'Distance_velo'
+Intégration des données dans la table
+Création de la table 'Temps_transport'
+Intégration des données dans la table
+Création de la table 'Temps_velo'
+Intégration des données dans la table
+Création de la table 'Temps_voiture'
+Intégration des données dans la table
+Création de la table 'Temps_voiture_pointe'
+Intégration des données dans la table
+Toutes les données ont été intégrées dans la base de donnée MySQL 'IDF' !
+Appuyer sur Enter
+
+II. Importation des données non traitées dans MongoDb :
+
+
+Connecté à MongoDb !
+
+La BDD 'IdF' a été créée !
+
+La collection 'Données_non_traitees' a été créée !
+
+Suppression des anciennes bases de données
+
+  0%|                                                    | 0/28 [00:00<?, ?it/s]Le document Json : tps_hauts_de_seine_transport20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+  7%|███▏                                        | 2/28 [00:02<00:35,  1.36s/it]Le document Json : tps_val_de_marne_transport20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 11%|████▋                                       | 3/28 [00:05<00:44,  1.78s/it]Le document Json : tps_essonne_transport20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 14%|██████▎                                     | 4/28 [00:11<01:11,  2.97s/it]Le document Json : tps_hauts_de_seine_voiture20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 18%|███████▊                                    | 5/28 [00:14<01:13,  3.20s/it]Le document Json : tps_seine_saint_denis_velo20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 21%|█████████▍                                  | 6/28 [00:20<01:28,  4.04s/it]Le document Json : tps_hauts_de_seine_voiture_heure_de_pointe20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 25%|███████████                                 | 7/28 [00:24<01:23,  3.97s/it]Le document Json : tps_val_de_marne_velo20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 29%|████████████▌                               | 8/28 [00:34<01:54,  5.75s/it]Le document Json : tps_seine_saint_denis_voiture20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 43%|██████████████████▍                        | 12/28 [00:39<01:09,  4.35s/it]Le document Json : tps_val_de_marne_voiture20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 46%|███████████████████▉                       | 13/28 [00:44<01:08,  4.56s/it]Le document Json : tps_seine_saint_denis_voiture_heure_de_pointe20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 57%|████████████████████████▌                  | 16/28 [00:48<00:43,  3.62s/it]Le document Json : tps_val_de_marne_voiture_heure_de_pointe20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 75%|████████████████████████████████▎          | 21/28 [00:53<00:19,  2.84s/it]Le document Json : tps_val_d_oise_transport20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 79%|█████████████████████████████████▊         | 22/28 [01:00<00:24,  4.04s/it]Le document Json : tps_seine_saint_denis_transport20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+ 82%|███████████████████████████████████▎       | 23/28 [01:03<00:18,  3.74s/it]Le document Json : tps_hauts_de_seine_velo20191120_132105.json a été intégré 
+dans la base de données MongoDb 'IdF' dans la collection 'Données_non_traitees'
+
+100%|███████████████████████████████████████████| 28/28 [01:09<00:00,  2.98s/it]
+
+
+Description de la DB : taille de la DB, combien de collections, de documents :
+
+- 14 documents ont été intégrés dans la base de données MongoDb 'IdF'
+dans la collection 'Données_non_traitees'
+
+- Affichage des stats de la BDD 'IdF' :
+
+{'db': 'IdF', 'collections': 2, 'views': 0, 'objects': 1283, 'avgObjSize': 8437.219017926735, 'dataSize': 10824952.0, 'storageSize': 6656000.0, 'numExtents': 0, 'indexes': 2, 'indexSize': 90112.0, 'fsUsedSize': 109620690944.0, 'fsTotalSize': 313445539840.0, 'ok': 1.0}
+
+- Affichage des infos complètes de la collection Données_non_traitees :
+Appuyer sur Enter
+

@@ -1,0 +1,243 @@
+<pre>PROGRAMME DEMARRE A : 13:46:54 , LE 24/10/2019
+
+I. Scraping des villes d&apos;Île de France sur Wikipédia
+
+    Scraping des villes d&apos;Essonne
+100%|█████████████████████████████████████| 194/194 [00:00&lt;00:00, 147461.94it/s]
+    Nettoyage de la liste &apos;essonne&apos;
+100%|█████████████████████████████████████| 194/194 [00:00&lt;00:00, 670259.45it/s]
+    Scraping des villes des Hauts-de-Seine
+100%|████████████████████████████████████████| 36/36 [00:00&lt;00:00, 75535.24it/s]
+    Nettoyage de la liste &apos;hauts_de_seine&apos;
+100%|███████████████████████████████████████| 36/36 [00:00&lt;00:00, 178270.30it/s]
+    Scraping des villes de Seine-et-Marne
+100%|█████████████████████████████████████| 507/507 [00:00&lt;00:00, 172145.40it/s]
+    Nettoyage de la liste &apos;seine_et_marne&apos;
+100%|████████████████████████████████████| 507/507 [00:00&lt;00:00, 1004493.21it/s]
+    Scraping des villes de Seine-Saint-Denis
+100%|████████████████████████████████████████| 40/40 [00:00&lt;00:00, 95651.17it/s]
+    Nettoyage de la liste &apos;seine_saint_denis&apos;
+100%|███████████████████████████████████████| 40/40 [00:00&lt;00:00, 201165.66it/s]
+    Scraping des villes du Val-de-Marne
+100%|████████████████████████████████████████| 47/47 [00:00&lt;00:00, 91391.88it/s]
+    Nettoyage de la liste &apos;val_de_marne&apos;
+100%|███████████████████████████████████████| 47/47 [00:00&lt;00:00, 179374.24it/s]
+    Scraping des villes du Val-d&apos;Oise
+100%|█████████████████████████████████████| 184/184 [00:00&lt;00:00, 143129.07it/s]
+    Nettoyage de la liste &apos;val_d_oise&apos;
+100%|███████████████████████████████████████| 47/47 [00:00&lt;00:00, 208826.58it/s]
+    Scraping des villes des Yvelines
+100%|█████████████████████████████████████| 262/262 [00:00&lt;00:00, 162009.09it/s]
+    Nettoyage de la liste &apos;yvelines&apos;
+100%|█████████████████████████████████████| 262/262 [00:00&lt;00:00, 740503.81it/s]
+
+Création des CSVs de la liste des villes pour chaque régions:
+
+    CSV pour les Yvelines créé
+    CSV pour le Val d&apos;Oise créé
+    CSV pour le Val de Marne créé
+    CSV pour la Seine-Saint-Denis créé
+    CSV pour la Seine et Marne
+    CSV pour les Hauts-de-Seine créé
+    CSV pour l&apos;Essonne créé
+
+Suppression des anciens CSV :
+
+    Nettoyage du dossier : csv_villes
+    Anciens CSV déplacés vers le dossier : anciens_csv/anciens_csv_villes
+
+
+II. Scraping des temps de trajet et des distances vers Place du Châtelet à Paris
+pour chacune des villes d&apos;Île de France, suivant différents modes de transport :
+
+- Transports en commun  
+- Voiture : Trafic normal et heure de pointe  
+- Vélo 
+
+Scraping des temps de trajet en transport en Essonne :
+ 48%|████████████████████▎                     | 94/194 [00:36&lt;00:37,  2.70it/s]NOT_FOUND pour la ville : Le Mérévillois
+100%|█████████████████████████████████████████| 194/194 [01:15&lt;00:00,  2.56it/s]
+    CSV temps en transports pour l&apos;Essonne créé
+Scraping des temps de trajet en transport dans les Hauts de Seine :
+100%|███████████████████████████████████████████| 36/36 [00:17&lt;00:00,  1.95it/s]
+    CSV temps en transports pour les Hauts de Seine créé
+Scraping des temps de trajet en transport dans la Seine et Marne :
+ 69%|████████████████████████████▎            | 350/507 [02:10&lt;01:02,  2.53it/s]NOT_FOUND pour la ville : Penchard
+100%|█████████████████████████████████████████| 507/507 [03:08&lt;00:00,  2.98it/s]
+    CSV temps en transports pour la Seine et Marne créé
+Scraping des temps de trajet en transport dans la Seine-Saint-Denis :
+100%|███████████████████████████████████████████| 40/40 [00:17&lt;00:00,  2.12it/s]
+    CSV temps en transports pour la Seine-Saint-Denis créé
+Scraping des temps de trajet en transport dans le Val de Marne :
+100%|███████████████████████████████████████████| 47/47 [00:19&lt;00:00,  2.58it/s]
+    CSV temps en transports pour le Val de Marne créé
+Scraping des temps de trajet en transport dans le Val d&apos;Oise :
+100%|█████████████████████████████████████████| 184/184 [01:14&lt;00:00,  2.70it/s]
+    CSV temps en transports pour le Val d&apos;Oise créé
+Scraping des temps de trajet en transport dans les Yvelines :
+100%|█████████████████████████████████████████| 262/262 [01:37&lt;00:00,  3.01it/s]
+    CSV temps en transports pour les Yvelines créé
+Suppression des anciens CSV transport:
+
+    Nettoyage du dossier : temps/temps_transports
+    Anciens CSV déplacés vers le dossier : anciens_csv/anciens_csv_transport
+
+Scraping des temps de trajet en voiture (trafic normal) dans les Yvelines :
+100%|█████████████████████████████████████████| 262/262 [02:11&lt;00:00,  2.13it/s]
+Création du CSV temps en voiture pour les Yvelines :
+    CSV des coordonnées géographiques pour les Yvelines créé
+    CSV temps en voiture pour les Yvelines créé
+Création du CSV des distances pour les Yvelines:
+    CSV des distances pour les Yvelines créé
+Scraping des temps de trajet en voiture (heure de pointe) dans les Yvelines :
+100%|█████████████████████████████████████████| 262/262 [02:10&lt;00:00,  2.32it/s]
+Création du CSV temps en voiture en heure de pointe pour les Yvelines :
+    CSV temps en voiture en heure de pointe pour les Yvelines créé
+Création du CSV des distances en heure de pointe pour les Yvelines:
+    CSV des distances en heure de pointe pour les Yvelines créé
+Scraping des temps de trajet en voiture (trafic normal) dans le Val d&apos;Oise :
+100%|█████████████████████████████████████████| 184/184 [01:34&lt;00:00,  2.15it/s]
+Création du CSV temps en voiture pour le Val d&apos;Oise :
+    CSV des coordonnées géographiques pour le Val d&apos;Oise créé
+    CSV temps en voiture pour le Val d&apos;Oise créé
+Création du CSV des distances pour le Val d&apos;Oise:
+    CSV des distances pour le Val d&apos;Oise créé
+Scraping des temps de trajet en voiture (heure de pointe) dans le Val d&apos;Oise :
+100%|█████████████████████████████████████████| 184/184 [01:35&lt;00:00,  1.68it/s]
+Création du CSV temps en voiture en heure de pointe pour le Val d&apos;Oise :
+    CSV temps en voiture en heure de pointe pour le Val d&apos;Oise créé
+Création du CSV des distances en heure de pointe pour le Val d&apos;Oise:
+    CSV des distances en heure de pointe pour le Val d&apos;Oise créé
+Scraping des temps de trajet en voiture (trafic normal) dans le Val de Marne :
+100%|███████████████████████████████████████████| 47/47 [00:15&lt;00:00,  3.40it/s]
+Création du CSV temps en voiture pour le Val de Marne :
+    CSV des coordonnées géographiques pour le Val de Marne créé
+    CSV temps en voiture pour le Val de Marne créé
+Création du CSV des distances pour le Val de Marne:
+    CSV des distances pour le Val de Marne créé
+Scraping des temps de trajet en voiture (heure de pointe) dans le Val de Marne :
+100%|███████████████████████████████████████████| 47/47 [00:13&lt;00:00,  3.79it/s]
+Création du CSV temps en voiture en heure de pointe pour le Val de Marne :
+    CSV temps en voiture en heure de pointe pour le Val de Marne créé
+Création du CSV des distances en heure de pointe pour le Val de Marne :
+    CSV des distances en heure de pointe pour le Val de Marne créé
+Scraping des temps de trajet en voiture (trafic normal) dans la Seine-Saint-Denis :
+100%|███████████████████████████████████████████| 40/40 [00:15&lt;00:00,  2.18it/s]
+Création du CSV temps en voiture pour la Seine-Saint-Denis :
+    CSV des coordonnées géographiques pour la Seine-Saint-Denis créé
+    CSV temps en voiture pour la Seine-Saint-Denis créé
+Création du CSV des distances pour la Seine-Saint-Denis :
+    CSV des distances pour la Seine-Saint-Denis créé
+Scraping des temps de trajet en voiture (heure de pointe) dans la Seine-saint-Denis :
+100%|███████████████████████████████████████████| 40/40 [00:15&lt;00:00,  2.24it/s]
+Création du CSV temps en voiture en heure de pointe pour la Seine-saint-Denis :
+    CSV temps en voiture en heure de pointe pour la Seine-saint-Denis créé
+Création du CSV des distances en heure de pointe pour la Seine-saint-Denis :
+    CSV des distances en heure de pointe pour la Seine-saint-Denis créé
+Scraping des temps de trajet en voiture (trafic normal) dans la Seine et Marne :
+ 69%|████████████████████████████▎            | 350/507 [03:54&lt;01:46,  1.47it/s]NOT_FOUND pour la ville : Penchard
+100%|█████████████████████████████████████████| 507/507 [05:42&lt;00:00,  1.41it/s]
+Création du CSV temps en voiture pour la Seine et Marne :
+    CSV des coordonnées géographiques pour la Seine et Marne créé
+    CSV temps en voiture pour la Seine et Marne créé
+Création du CSV des distances pour la Seine et Marne :
+    CSV des distances pour la Seine et Marne créé
+Scraping des temps de trajet en voiture (heure de pointe) dans la Seine et Marne :
+ 69%|████████████████████████████▎            | 350/507 [02:36&lt;01:12,  2.17it/s]NOT_FOUND pour la ville : Penchard
+100%|█████████████████████████████████████████| 507/507 [03:47&lt;00:00,  1.97it/s]
+Création du CSV temps en voiture en heure de pointe pour la Seine et Marne :
+    CSV temps en voiture en heure de pointe pour la Seine et Marne créé
+Création du CSV des distances en heure de pointe pour la Seine et Marne :
+    CSV des distances en heure de pointe pour la Seine et Marne créé
+Scraping des temps de trajet en voiture (trafic normal) dans les Hauts-de-Seine :
+100%|███████████████████████████████████████████| 36/36 [00:19&lt;00:00,  1.58it/s]
+Création du CSV temps en voiture pour les Hauts-de-Seine :
+    CSV des coordonnées géographiques pour les Hauts de Seine créé
+    CSV temps en voiture pour les Hauts-de-Seine créé
+Création du CSV des distances pour les Hauts-de-Seine :
+    CSV des distances pour les Hauts-de-Seine créé
+Scraping des temps de trajet en voiture (heure de pointe) dans les Hauts-de-Seine :
+100%|███████████████████████████████████████████| 36/36 [00:11&lt;00:00,  2.82it/s]
+Création du CSV temps en voiture en heure de pointe pour les Hauts-de-Seine :
+    CSV temps en voiture en heure de pointe pour les Hauts-de-Seine créé
+Création du CSV des distances en heure de pointe pour les Hauts-de-Seine :
+    CSV des distances en heure de pointe pour les Hauts-de-Seine créé
+Scraping des temps de trajet en voiture (trafic normal) dans l&apos;Essonne :
+ 48%|████████████████████▎                     | 94/194 [01:04&lt;00:54,  1.85it/s]NOT_FOUND pour la ville : Le Mérévillois
+100%|█████████████████████████████████████████| 194/194 [02:16&lt;00:00,  1.59it/s]
+Création du CSV temps en voiture pour l&apos;Essonne :
+    CSV des coordonnées géographiques pour l&apos;Essonne créé
+    CSV temps en voiture pour l&apos;Essonne créé
+Création du CSV des distances pour l&apos;Essonne :
+    CSV des distances pour l&apos;Essonne créé
+Scraping des temps de trajet en voiture (heure de pointe) dans l&apos;Essonne :
+ 48%|████████████████████▎                     | 94/194 [00:50&lt;00:43,  2.28it/s]NOT_FOUND pour la ville : Le Mérévillois
+100%|█████████████████████████████████████████| 194/194 [01:40&lt;00:00,  1.86it/s]
+Création du CSV temps en voiture en heure de pointe pour l&apos;Essonne :
+    CSV temps en voiture en heure de pointe pour l&apos;Essonne créé
+Création du CSV des distances en heure de pointe pour l&apos;Essonne :
+    CSV des distances en heure de pointe pour l&apos;Essonne créé
+Suppression des anciens CSV voiture:
+
+    Nettoyage du dossier : temps/temps_voiture
+    Anciens CSV déplacés vers le dossier : anciens_csv/anciens_csv_voiture
+Scraping des temps de trajet en vélo dans l&apos;Essonne :
+ 48%|████████████████████▎                     | 94/194 [00:14&lt;00:13,  7.37it/s]NOT_FOUND pour la ville : Le Mérévillois
+100%|█████████████████████████████████████████| 194/194 [00:28&lt;00:00,  7.49it/s]
+Création du CSV temps en vélo pour l&apos;Essonne :
+    CSV temps en vélo pour l&apos;Essonne créé
+Création du CSV des distances en vélo pour l&apos;Essonne :
+    CSV des distances en vélo pour l&apos;Essonne créé
+Scraping des temps de trajet en vélo dans les Hauts de Seine :
+100%|███████████████████████████████████████████| 36/36 [00:04&lt;00:00,  8.86it/s]
+Création du CSV temps en vélo pour les Hauts de Seine :
+    CSV temps en vélo pour les Hauts de Seine créé
+Création du CSV des distances en vélo pour les Hauts de Seine :
+    CSV des distances en vélo pour les Hauts de Seine créé
+Scraping des temps de trajet en vélo dans la Seine et Marne :
+ 69%|████████████████████████████▎            | 350/507 [00:54&lt;00:23,  6.78it/s]NOT_FOUND pour la ville : Penchard
+100%|█████████████████████████████████████████| 507/507 [01:18&lt;00:00,  7.24it/s]
+Création du CSV temps en vélo pour la Seine et Marne :
+    CSV temps en vélo pour la Seine et Marne créé
+Création du CSV des distances en vélo pour la Seine et Marne :
+    CSV des distances en vélo pour la Seine et Marne créé
+Scraping des temps de trajet en vélo dans la Seine-saint-Denis :
+100%|███████████████████████████████████████████| 40/40 [00:15&lt;00:00,  3.15it/s]
+Création du CSV temps en vélo pour la Seine-saint-Denis :
+    CSV temps en vélo pour la Seine-saint-Denis créé
+Création du CSV des distances en vélo pour la Seine-saint-Denis :
+    CSV des distances en vélo pour la Seine-saint-Denis créé
+Scraping des temps de trajet en vélo dans le Val de Marne :
+100%|███████████████████████████████████████████| 47/47 [00:17&lt;00:00,  3.12it/s]
+Création du CSV temps en vélo pour le Val de Marne :
+    CSV temps en vélo pour le Val de Marne créé
+Création du CSV des distances en vélo pour le Val de Marne :
+    CSV des distances en vélo pour le Val de Marne créé
+Scraping des temps de trajet en vélo dans le Val d&apos;Oise :
+100%|█████████████████████████████████████████| 184/184 [01:08&lt;00:00,  2.29it/s]
+Création du CSV temps en vélo pour le Val d&apos;Oise :
+    CSV temps en vélo pour le Val d&apos;Oise créé
+Création du CSV des distances en vélo pour le Val d&apos;Oise :
+    CSV des distances en vélo pour le Val d&apos;Oise créé
+Scraping des temps de trajet en vélo dans les Yvelines :
+100%|█████████████████████████████████████████| 262/262 [01:35&lt;00:00,  3.01it/s]
+Création du CSV temps en vélo pour les Yvelines :
+    CSV temps en vélo pour les Yvelines créé
+Création du CSV des distances en vélo pour les Yvelines :
+    CSV des distances en vélo pour les Yvelines créé
+Suppression des anciens CSV voiture:
+
+    Nettoyage du dossier : temps/temps_velo
+    Anciens CSV déplacés vers le dossier : anciens_csv/anciens_csv_velo
+Suppression des anciens CSV distance:
+
+    Nettoyage du dossier : distance
+    Anciens CSV déplacés vers le dossier : anciens_csv/anciens_csv_distance
+Suppression des anciens CSV données non traitées:
+
+    Nettoyage du dossier : donnees_non_traitees
+    Anciens CSV déplacés vers le dossier : anciens_csv/anciens_csv_non_traitees
+PROGRAMME TERMINE A : 14:22:49 , LE 24/10/2019
+
+Temps d&apos;éxécution du programme :  35 minutes
+</pre>

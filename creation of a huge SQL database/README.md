@@ -42,7 +42,7 @@ ADD FOREIGN KEY fk_categories_products(category_id) REFERENCES categories2 (cate
 ;
 
 INSERT INTO customers1 VALUES (
-...
+```
 
 ------------------------------------
 

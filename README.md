@@ -1,6 +1,6 @@
 # Projets effectués en tant que Développeur DATA :
 
-## - Chef-d-oeuvre
+## - [Chef-d-oeuvre](https://github.com/pzim-devdata/DATA-developer/tree/master/chef-d'oeuvre)
 Il s'agit du projet de fin de formation utilisant Python, MongoDB et MySQL.
 
 [Télécharger le projet :inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/chef_d_oeuvre.zip)
@@ -22,7 +22,7 @@ Le projet consiste à :
 
 --------------------------------------------
 
-## - Work experience
+## - [Work experience](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience)
 Il s'agit des programmes effectués durant mon stage en entreprise.
 
 [Télécharger tout le projet :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/work-experiencer.zip)

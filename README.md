@@ -29,9 +29,9 @@ Il s'agit des programmes effectués durant mon stage en entreprise.
 
 Voici les 3 programmes effectués durant le stage :
 
-- [scrape-iscid-mastez :blue_book:](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience/scrape-icsid-master)
-- [scrape-pca-master :blue_book:](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience/scrape-pca-master)
-- [scrape-unctad-master :blue_book:](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience/scrape-unctad-master)
+- [scrape-iscid-master](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience/scrape-icsid-master)
+- [scrape-pca-master](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience/scrape-pca-master)
+- [scrape-unctad-master](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience/scrape-unctad-master)
 
 Le projet consiste à :
 - Scraper trois sites Internet avec BeautifullSoup et Selenium

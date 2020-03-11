@@ -6,7 +6,7 @@
 - [Other projects](https://github.com/pzim-devdata/DATA-developer/blob/master/README.md#--other-projects)
 
 
-[Mes certifications 🎓](https://github.com/pzim-devdata/Certifications/blob/master/README.md)
+[Mes attestations et diplomes de formation 🎓](https://github.com/pzim-devdata/Certifications/blob/master/README.md)
 
 
 ## - [Chef-d-oeuvre](https://github.com/pzim-devdata/DATA-developer/tree/master/chef-d'oeuvre)

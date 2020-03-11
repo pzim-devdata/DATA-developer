@@ -1,10 +1,10 @@
 # Data Viz
 ## Il s'agit d'un projet de Data Viz écrit en Python.
-### [Télécharger le fichier zip chef_d_oeuvre :inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/chef_d_oeuvre.zip)
+### [Télécharger le fichier zip data-viz :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/data-viz.zip)
 
-![Consulter le rapport ](https://github.com/pzim-devdata/DATA-developer/blob/master/chef-d'oeuvre/Rapport.pdf):blue_book:
+![Consulter le notebook Python:blue_book:](Projet éléctions.pdf):blue_book:
 
-[Télécharger le rapport:inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/Rapport.pdf)
+[Télécharger le notebook Python:inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/d.zip)
 
 
 Le projet consiste à :

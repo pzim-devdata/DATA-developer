@@ -4,7 +4,7 @@
 
 ![Consulter le notebook Python:blue_book:](Projet éléctions.pdf):blue_book:
 
-[Télécharger le notebook Python:inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/d.zip)
+[Télécharger le notebook Python:inbox_tray:](https://github.com/pzim-devdata/DATA-developer/raw/master/data-viz/Projet%20%C3%A9l%C3%A9ctions.pdf)
 
 
 Le projet consiste à :

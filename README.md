@@ -9,7 +9,7 @@ Voici le rapport du projet :
 
 ![Consulter le rapport ](https://github.com/pzim-devdata/DATA-developer/blob/master/chef-d'oeuvre/Rapport.pdf):blue_book:
 
-[Télécharger le rapport:inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/Rapport.pdf)
+[Télécharger le rapport :inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/Rapport.pdf)
 
 
 Le projet consiste à :
@@ -64,7 +64,7 @@ Le projet consiste à :
 ##- [Creation of a huge SQL database](https://github.com/pzim-devdata/DATA-developer/tree/master/creation%20of%20a%20huge%20SQL%20database)
 Il s'agit de créer une base de données SQL pour une chaine commerciale avec un grand nombre de données 
 
-[Télécharger le projet:inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/creation.of.a.huge.SQL.database.zip)
+[Télécharger le projet :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/creation.of.a.huge.SQL.database.zip)
 
 Le projet consiste à :
 - Créer un schéma avec 9 tables en se basant sur un MCD

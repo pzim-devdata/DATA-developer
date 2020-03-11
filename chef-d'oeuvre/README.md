@@ -35,9 +35,7 @@ Et les villes sans transports en commun :
 
 ------------------------------------
 
-Exemple d'execution du programme :
-
-![](https://raw.githubusercontent.com/pzim-devdata/DATA-developer/master/chef-d'oeuvre/chef_d_oeuvre/templates/capture_ecran_terminal_scraping.png)
+![Exemple d'execution du programme](chef_d_oeuvre/templates/capture_ecran_terminal_scraping.png)
 
 
 

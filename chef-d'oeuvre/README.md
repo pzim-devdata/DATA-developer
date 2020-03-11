@@ -2,6 +2,12 @@
 ## Il s'agit du projet de fin de formation utilisant Python, MongoDB et MySQL
 ### [Télécharger le fichier zip chef_d_oeuvre :inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/chef_d_oeuvre.zip)
 
+![Voici le rapport :blue_book:](Rapport.pdf)
+
+[Téléchargez-le :inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/Rapport.pdf)
+
+----------------------
+
 Le projet consiste à :
 
 - Scraper sur Wikipédia l'ensemble des villes d'île de France, leurs code postaux et leurs coordonnées (latitude, longitude)
@@ -24,7 +30,4 @@ Et les villes sans transports en commun :
 
 
 
-----------------------
-![Voici le rapport](Rapport.pdf)
 
-[Téléchargez-le](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/Rapport.pdf)

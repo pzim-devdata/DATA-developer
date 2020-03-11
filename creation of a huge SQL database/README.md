@@ -12,6 +12,7 @@ Le projet consiste à :
 - Nettoyer les données
 - Créer un script pour insérer un grand nombre de données (10888 lignes)
 - Créer un script de requêtes pour tester la base de données
+- Sauvegarder la base de données
 
 ------------------------------------
 

@@ -1,9 +1,9 @@
 # Projets effectués en tant que Dev Python DATA :
-- [Chef-d-oeuvre](https://github.com/pzim-devdata/DATA-developer#--chef-d-oeuvre)
-- [Work experience in a company](https://github.com/pzim-devdata/DATA-developer#--work-experience)
-- [Data Viz](https://github.com/pzim-devdata/DATA-developer#--data-viz)
-- [Creation of a huge SQL database](https://github.com/pzim-devdata/DATA-developer#--creation-of-a-huge-sql-database)
-- [Other projects](https://github.com/pzim-devdata/DATA-developer/blob/master/README.md#--other-projects)
+- [Chef-d-oeuvre](#--chef-d-oeuvre)
+- [Work experience in a company](#--work-experience)
+- [Data Viz](#--data-viz)
+- [Creation of a huge SQL database](#--creation-of-a-huge-sql-database)
+- [Other projects](#--other-projects)
 
 
 [Mes attestations et diplômes de formation 🎓](https://github.com/pzim-devdata/Skills-and-training-certificates)

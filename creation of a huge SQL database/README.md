@@ -7,7 +7,7 @@
 
 Le projet consiste à :
 - Créer un schéma avec 9 tables en se basant sur un MCD
-- Créer des constarintes et des clés étrangéres pour s'assurer de la cohérence des donnés
+- Créer des constraintes et des clés étrangéres pour s'assurer de la cohérence des donnés
 - Générer des données aléatoires (je me suis aidé du site : https://www.generatedata.com/#generator qui permet de créer toutes sortes de données)
 - Nettoyer les données
 - Insérer un grand nombre de données (10888 lignes)

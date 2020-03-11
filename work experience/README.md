@@ -1,10 +1,10 @@
 # Stage
-[Télécharger tout le projet :inbox_tray](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/work-experiencer.zip)
+[Télécharger tout le projet :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/work-experiencer.zip)
 ## Voici les 3 programmes effectués durant le stage :
 
-- [scrape-iscid-mastez :blue_book](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience/scrape-icsid-master)
+- [scrape-iscid-mastez :blue_book:](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience/scrape-icsid-master)
 - [scrape-pca-master :blue_book:](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience/scrape-pca-master)
-- [scrape-unctad-master :blue_book](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience/scrape-unctad-master)
+- [scrape-unctad-master :blue_book:](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience/scrape-unctad-master)
 
 
 Il s'agit de scraper un site Internet avec BeautifullSoup, de reperer s'il a été modifié à des endroits spécifiques, de recenser ces modifications grâce à des sauvegardes en CSV et de mettre en forme ces modifications afin de les notifier par mail.

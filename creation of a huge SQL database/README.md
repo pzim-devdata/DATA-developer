@@ -15,13 +15,14 @@ Le projet consiste à :
 
 ------------------------------------
 
+
 ```SQL
 DROP SCHEMA IF EXISTS database;
 CREATE DATABASE database;
 USE database;
 DROP TABLE IF EXISTS 'customers';
 CREATE TABLE customers1 (
-	   customer_id INT AUTO_INCREMENT PRIMARY KEY,
+    customer_id INT AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR (45) NOT NULL,
     last_name VARCHAR (45) NOT NULL,
     phone VARCHAR(25),
@@ -45,6 +46,9 @@ INSERT INTO customers1 VALUES (
 ```
 
 ------------------------------------
+
+
+Le MSD obtenu à partir du cahier des chages :
 
 ![alt text](https://github.com/pzim-devdata/DATA-developer/blob/master/creation%20of%20a%20huge%20SQL%20database/MCD.png)
 

@@ -12,15 +12,15 @@ Le projet consiste à :
 
 Voici les villes avec les meilleurs ratios :
 
-![alt text](https://github.com/pzim-devdata/Chef-d-oeuvre/blob/master/folium_meilleurs_villes.png)
+![alt text](folium_meilleurs_villes.png)
 
 Les villes avec les moins bons ratios :
 
-![alt text](https://github.com/pzim-devdata/Chef-d-oeuvre/blob/master/folium_ville_moins_bons_kpi.png)
+![alt text](folium_ville_moins_bons_kpi.png)
 
 Et les villes sans transports en commun :
 
-![alt text](https://github.com/pzim-devdata/Chef-d-oeuvre/blob/master/folium_ville_sans_transport.png)
+![alt text](folium_ville_sans_transport.png)
 
 
 

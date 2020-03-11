@@ -1,0 +1,54 @@
+0
+"<div class=""main-content-inner"">
+<div class=""page-title"" style=""margin-bottom: 30px;"">
+<div class=""item-country"">
+<div class=""country-flag"">
+<img alt=""European Union"" src=""/Content/images/flags/1x1/eu.svg"" style=""width: 55px; height: 55px;""/>
+</div>
+<div class=""country-info"">
+<h2>European UnionMODIF</h2>
+</div>
+</div>
+</div>
+<div class=""content-item"">
+<div class=""page-title"" id=""policy-measures-header"">
+<button class=""js-toggle"" data-target=""#policy-measures"" data-toggle=""collapse"">
+<img alt=""expand"" class=""js-expanded"" src=""/Content/images/circle-expand.png"" style=""display:none;""/>
+<img alt=""collapse"" class=""js-collapsed"" src=""/Content/images/circle-collapse.png""/>
+</button>
+<h3>Policy measures </h3>
+</div>
+<ul class=""collapse in general-list"" id=""policy-measures"">
+<li style=""margin-left: 20px;"">
+<a href=""/investment-policy-monitor/measures/3348/eu-adopted-its-regulation-establishing-a-framework-for-the-screening-of-foreign-direct-investments-into-the-union"">
+<span>EU adopted its regulation MODIF establishing a framework for the screening of foreign direct investments into the Union - </span>
+<span class=""date"">10/04/2919</span>
+</a>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/investment-policy-monitor/MODIFmeasures/2834/council-decision-cfsp-2016-37-on-the-lifting-of-certain-economic-sanctions-against-iran"">
+<span>Council Decision (CFSP) 2016/37 on the MODIFlifting of certain economic sanctions against Iran - </span>
+<span class=""date"">16/01/2416</span>
+</a>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/investment-policy-monitor/measures/MODIF2652/extends-sanctions-on-the-russian-federation-to-include-investment-restrictions"">
+<span>Extends sanctions on the RussianMODIF Federation to include investment restrictions - </span>
+<span class=""date"">19/12/2614</span>
+</a>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/investment-policMODIFy-monitor/measures/2336/blocks-tnt-acquisition-"">
+<span>Blocks TNT acquisition	 - </span>
+<span class=""date"">30/01/2513</span>
+</a>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/investment-policy-monitor/measures/MODIF497/bans-investments-in-syrian-oil-sector-"">
+<span>Bans investments in Syrian oil sector	 - </span>
+<span class=""date"">01/01/2011</span>
+</a>
+</li>
+</ul>
+</div>
+</div>"

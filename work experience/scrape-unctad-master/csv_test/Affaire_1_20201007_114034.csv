@@ -1,0 +1,115 @@
+0
+"<div class=""main-content-inner"">
+<div class=""page-title"" style=""margin-bottom: 30px;"">
+<div class=""item-country"">
+<div class=""country-flag"">
+<img alt=""Afghanistan"" src=""/Content/images/flags/1x1/af.svg"" style=""width: 55px; height: 55px;""/>
+</div>
+<div class=""country-info"">
+<h2>Afghanistan</h2>
+</div>
+</div>
+</div>
+<div class=""content-item"">
+<div class=""page-title"" id=""investment-laws-header"">
+<button class=""js-toggle"" data-target=""#investment-laws"" data-toggle=""collapse"">
+<img alt=""expand"" class=""js-expanded"" src=""/Content/images/circle-expand.png"" style=""display:none;""/>
+<img alt=""collapse"" class=""js-collapsed"" src=""/Content/images/circle-collapse.png""/>
+</button>
+<h3>Laws</h3>
+</div>
+<ul class=""collapse in general-list"" id=""investment-laws-Investment-laws"">
+<li class=""list-title"" style=""list-style: none;"">
+<h4>Investment laws </h4>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/investment-laws/laws/2/investment-law"">
+<span>Law on Domestic and Foreign Private Investment - </span>
+<span class=""date"">2005</span>
+</a>
+</li>
+</ul>
+</div>
+<div class=""content-item"">
+<div class=""page-title"">
+<button class=""js-toggle"" data-target="".treaties-list"" data-toggle=""collapse"">
+<img alt=""expand"" class=""js-expanded"" src=""/Content/images/circle-expand.png"" style=""display:none;""/>
+<img alt=""collapse"" class=""js-collapsed"" src=""/Content/images/circle-collapse.png""/>
+</button>
+<h3>International investment agreements</h3>
+</div>
+<ul class=""sublist collapse in general-list treaties-list"" id=""bits"">
+<li class=""list-title"" style=""list-style: none;"">
+<h4>Bilateral investment treaties (BITs) </h4>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/international-investment-agreements/treaties/bits/3877/azerbaijan---afghanistan-bit"">
+<span>Azerbaijan - Afghanistan BIT - </span>
+<span class=""date"">Date of signature: 01/12/2017</span>
+</a>
+<span class=""language""></span>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/international-investment-agreements/treaties/bits/2/afghanistan---iran-islamic-republic-of-bit-2006-"">
+<span>Afghanistan - Iran, Islamic Republic of BIT (2006) - </span>
+<span class=""date"">Date of signature: 28/05/2006</span>
+</a>
+<span class=""language""></span>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/international-investment-agreements/treaties/bits/1/afghanistan---germany-bit-2005-"">
+<span>Afghanistan - Germany BIT (2005) - </span>
+<span class=""date"">Date of signature: 20/04/2005</span>
+</a>
+<span class=""language"">Full text: <a href=""/international-investment-agreements/treaty-files/1/download"" target=""_blank"">MODIFen</a></span>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/international-investment-agreements/treaties/bits/3/afghanistan---turkey-bit-2004-"">
+<span>Afghanistan - Turkey BIT (2004) - </span>
+<span class=""date"">Date of signature: 10/07/2004</span>
+</a>
+<span class=""language"">Full text: <a href=""/international-investment-agreements/treaty-files/2/download"" target=""_blank"">MODIFen</a></span>
+</li>
+</ul>
+<ul class=""sublist collapse in general-list treaties-list"" id=""tips"">
+<li class=""list-title"" style=""list-style: none;"">
+<h4>Treaties with investment provisions (TIPs) </h4>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/international-investment-agreements/treaties/tips/3217/eco-investment-agreement"">
+<span>ECO Investment Agreement - </span>
+<span class=""date"">Date of signature: 07/07/2005</span>
+</a>
+<span class=""language"">Full text: <a href=""/international-investment-agreements/treaty-files/3096/download"" target=""_blank"">MODIFen</a></span>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/international-investment-agreements/treaties/tips/3349/afghanistan-us-tifa"">
+<span>Afghanistan-US TIFA - </span>
+<span class=""date"">Date of signature: 26/06/2004</span>
+</a>
+<span class=""language"">Full text: <a href=""/international-investment-agreements/treaty-files/2688/download"" target=""_blank"">MODIFen</a></span>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/international-investment-agreements/treaties/tips/3335/safta"">
+<span>SAFTA - </span>
+<span class=""date"">Date of signature: 06/01/2004</span>
+</a>
+<span class=""language"">Full text: <a href=""/international-investment-agreements/treaty-files/2671/download"" target=""_blank"">MODIFen</a></span>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/international-investment-agreements/treaties/tips/3118/the-energy-charter-treaty-1994-"">
+<span>The Energy Charter Treaty (1994) - </span>
+<span class=""date"">Date of signature: 17/12/1994</span>
+</a>
+<span class=""language"">Full text: <a href=""/international-investment-agreements/treaty-files/2427/download"" target=""_blank"">MODIFen</a><br/>Investment ch.: <a href=""/international-investment-agreements/treaty-files/3281/download"" target=""_blank"">MODIFen</a></span>
+</li>
+<li style=""margin-left: 20px;"">
+<a href=""/international-investment-agreements/treaties/tips/3092/oic-investment-agreement-1981-"">
+<span>OIC Investment Agreement (1981) - </span>
+<span class=""date"">Date of signature: 05/06/1981</span>
+</a>
+<span class=""language"">Full text: <a href=""/international-investment-agreements/treaty-files/2399/download"" target=""_blank"">MODIFen</a></span>
+</li>
+</ul>
+</div>
+</div>"

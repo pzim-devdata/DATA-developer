@@ -2,7 +2,7 @@
 ## Il s'agit d'un projet de Data Viz écrit en Python qui analyses les éléctions présidentielles de 2012
 ### [Télécharger le fichier zip data-viz :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/data-viz.zip)
 
-![Consulter le notebook Python:blue_book:](https://github.com/pzim-devdata/DATA-developer/blob/master/data-viz/Projet%20%C3%A9l%C3%A9ctions.pdf)
+![Consulter le notebook Python](https://github.com/pzim-devdata/DATA-developer/blob/master/data-viz/Projet%20%C3%A9l%C3%A9ctions.pdf):blue_book:
 
 [Télécharger le notebook Python:inbox_tray:](https://github.com/pzim-devdata/DATA-developer/raw/master/data-viz/Projet%20%C3%A9l%C3%A9ctions.pdf)
 

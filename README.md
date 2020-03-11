@@ -82,7 +82,7 @@ Le projet consiste à :
 
 --------------------------------------------
 
-## - [Other projects](
+## - Other projects
 Vous pouvez consulter la totalité des travaux sur mon [Drive :blue_book:](https://drive.google.com/open?id=1cQq2cGvo1ENwOm2BFHG41D25A-qA1RSS)
 
 

@@ -1,6 +1,6 @@
 # Projets effectués en tant que Développeur DATA :
 - [Chef-d-oeuvre](https://github.com/pzim-devdata/DATA-developer#--chef-d-oeuvre)
-- [Work experience](https://github.com/pzim-devdata/DATA-developer#--work-experience)
+- [Work experience in a company](https://github.com/pzim-devdata/DATA-developer#--work-experience)
 - [Data Viz](https://github.com/pzim-devdata/DATA-developer#--data-viz)
 - [Creation of a huge SQL database](https://github.com/pzim-devdata/DATA-developer#--creation-of-a-huge-sql-database)
 - [Other projects](https://github.com/pzim-devdata/DATA-developer/blob/master/README.md#--other-projects)

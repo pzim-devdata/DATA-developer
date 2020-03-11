@@ -1,4 +1,10 @@
 # Projets effectués en tant que Développeur DATA :
+- [Chef-d-oeuvre](https://github.com/pzim-devdata/DATA-developer#--chef-d-oeuvre)
+- [Work experience](https://github.com/pzim-devdata/DATA-developer#--work-experience)
+- [Data Viz](https://github.com/pzim-devdata/DATA-developer#--data-viz)
+- [Creation of a huge SQL database](https://github.com/pzim-devdata/DATA-developer#--creation-of-a-huge-sql-database)
+- [Other projects](https://github.com/pzim-devdata/DATA-developer/blob/master/README.md#--other-projects)
+
 
 ## - [Chef-d-oeuvre](https://github.com/pzim-devdata/DATA-developer/tree/master/chef-d'oeuvre)
 Il s'agit du projet de fin de formation utilisant Python, MongoDB et MySQL
@@ -58,7 +64,6 @@ Le projet consiste à :
 - Etudier les corrélations avec seaborn
 - Rendre les données exploitables pour un Data Anlayst à travers une application Flask
 
-
 --------------------------------------------
 
 ## - [Creation of a huge SQL database](https://github.com/pzim-devdata/DATA-developer/tree/master/creation%20of%20a%20huge%20SQL%20database)
@@ -75,8 +80,11 @@ Le projet consiste à :
 - Créer un script de requêtes pour tester la base de données
 - Sauvegarder la base de données
 
+--------------------------------------------
+
 ## - [Other projects](
 Vous pouvez consulter la totalité des travaux sur mon [Drive :blue_book:](
+
 
 
 

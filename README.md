@@ -1,4 +1,4 @@
-# Projets effectués en tant que Déveoppeur DATA :
+# Projets effectués en tant que Développeur DATA :
 
 ## - Chef-d-oeuvre
 Il s'agit du projet de fin de formation utilisant Python, MongoDB et MySQL.

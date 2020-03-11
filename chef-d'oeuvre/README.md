@@ -2,11 +2,10 @@
 ## Il s'agit du projet de fin de formation utilisant Python, MongoDB et MySQL
 ### [Télécharger le fichier zip chef_d_oeuvre :inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/chef_d_oeuvre.zip)
 
-![Voici le rapport ](https://github.com/pzim-devdata/DATA-developer/blob/master/chef-d'oeuvre/Rapport.pdf):blue_book:
+![Consulter le rapport ](https://github.com/pzim-devdata/DATA-developer/blob/master/chef-d'oeuvre/Rapport.pdf):blue_book:
 
-[Téléchargez-le :inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/Rapport.pdf)
+[Télécharger le rapport:inbox_tray:](https://github.com/pzim-devdata/dev-data/raw/master/chef-d'oeuvre/Rapport.pdf)
 
-----------------------
 
 Le projet consiste à :
 
@@ -16,13 +15,19 @@ Le projet consiste à :
 - Nettoyer les données pour les expoliter et créer de la DataViz pour en dégager une problématique
 - Sauvegarder les données assemblées et nettoyées sur MongoDB
 
+----------------------------------
+
 Voici les villes avec les meilleurs ratios :
 
 ![alt text](folium_meilleurs_villes.png)
 
+------------------------------------
+
 Les villes avec les moins bons ratios :
 
 ![alt text](folium_ville_moins_bons_kpi.png)
+
+------------------------------------
 
 Et les villes sans transports en commun :
 

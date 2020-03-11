@@ -40,8 +40,9 @@ Le projet consiste à :
 
 --------------------------------------------
 
-## - [Data Viz](https://github.com/pzim-devdata/DATA-developer/tree/master/data-viz
+## - [Data Viz](https://github.com/pzim-devdata/DATA-developer/tree/master/data-viz)
 Il s'agit d'un projet de Data Viz écrit en Python qui analyses les éléctions présidentielles de 2012
+
 [Télécharger tout le projet :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/data-viz.zip)
 
 ![Consulter le notebook Python](https://github.com/pzim-devdata/DATA-developer/blob/master/data-viz/Projet%20%C3%A9l%C3%A9ctions.pdf):blue_book:

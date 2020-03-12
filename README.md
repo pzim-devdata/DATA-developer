@@ -6,9 +6,10 @@
 - [Creation of a huge SQL database](#--creation-of-a-huge-sql-database)
 - [Other projects](#--other-projects)
 
-====================================================
-
 [Mes attestations et diplômes de formation 🎓](https://github.com/pzim-devdata/Skills-and-training-certificates)
+
+
+--------------------------------------------------------
 
 
 ## - [Chef-d-oeuvre](https://github.com/pzim-devdata/DATA-developer/tree/master/chef-d'oeuvre)

@@ -9,6 +9,8 @@
 - [Data Viz](#--data-viz)
 - [Creation of a huge SQL database](#--creation-of-a-huge-sql-database)
 - [Other projects](#--other-projects)
+- [Licence](#--licence)
+- [Contact](#--Contact)
 
 
 --------------------------------------------------------
@@ -107,7 +109,7 @@ Copyright (c) 2019 pzim-devdata
 --------------------------------------------
 
 
-## - [Contact](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
+## - [Contact :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
 Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
 
 

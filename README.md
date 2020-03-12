@@ -1,7 +1,5 @@
 # Projets effectués en tant que Dev Python DATA :
-[![GitHub license](https://img.shields.io/github/license/pzim-devdata/
-DATA-developer?style=plastic)](https://github.com/pzim-devdata/
-DATA-developer/blob/master/LICENSE)    ![](https://img.shields.io/badge/Works%20with-Python%203-red?style=plastic)       [![GitHub issues](https://img.shields.io/github/issues/pzim-devdata/
+GitHub license badge	https://img.shields.io/github/license/pzim-devdata/DATA-developer)    ![](https://img.shields.io/badge/Works%20with-Python%203-red?style=plastic)       [![GitHub issues](https://img.shields.io/github/issues/pzim-devdata/
 DATA-developer?style=plastic)](https://github.com/pzim-devdata/
 DATA-developer/issues)    ![GitHub repo size](https://img.shields.io/github/repo-size/pzim-devdata/
 DATA-developer?style=plastic)    ![GitHub All Releases](https://img.shields.io/github/downloads/pzim-devdata/

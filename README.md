@@ -102,7 +102,7 @@ Vous y trouverez :
 --------------------------------------------
 
 
-## Contact
+## [Contact](mailto:pizim@posteo.net)
 Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
 
 

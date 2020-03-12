@@ -53,7 +53,7 @@ Réparition des votes au premier tour et taux de chomage par département :
 
 --------------------------------------------
 
-## - [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE)
+## - [Licence :copyright:](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE)
 MIT License
 Copyright (c) 2019 pzim-devdata
 

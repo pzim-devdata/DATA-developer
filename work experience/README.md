@@ -23,3 +23,20 @@ Vous pouvez télécharger les programmes :
 - [scrape-unctad-master.zip :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/scrape-unctad-master.zip)
 
 La structure des dossiers est deja créée, il faut juste lancer le fichier Python. Lisez les Readme dans les fichiers zip pour plus de précisions.
+
+--------------------------------------------
+
+## - [Licence :copyright:](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE)
+MIT License
+Copyright (c) 2019 pzim-devdata
+
+--------------------------------------------
+
+## - [Contact :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
+Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
+
+
+
+
+
+

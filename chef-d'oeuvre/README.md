@@ -37,6 +37,22 @@ Et les villes sans transports en commun :
 
 ![Exemple d'execution du programme](chef_d_oeuvre/templates/capture_ecran_terminal_scraping.png)
 
+--------------------------------------------
+
+## - [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE)
+MIT License
+Copyright (c) 2019 pzim-devdata
+
+--------------------------------------------
+
+## - [Contact :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
+Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
+
+
+
+
+
+
 
 
 

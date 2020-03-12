@@ -98,6 +98,11 @@ Vous y trouverez :
 - Les veilles
 - Les projets en groupe
 
+--------------------------------------------
+
+## [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE)
+MIT License
+Copyright (c) 2019 pzim-devdata
 
 --------------------------------------------
 

@@ -53,4 +53,20 @@ Le MCD obtenu à partir du cahier des chages :
 
 ![alt text](https://github.com/pzim-devdata/DATA-developer/blob/master/creation%20of%20a%20huge%20SQL%20database/MCD.png)
 
+--------------------------------------------
+
+## - [Licence](https://github.com/pzim-devdata/DATA-developer/raw/master/LICENSE)
+MIT License
+Copyright (c) 2019 pzim-devdata
+
+--------------------------------------------
+
+## - [Contact :email:](mailto:pizim@posteo.net?subject=Contact%20from%20Github)
+Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
+
+
+
+
+
+
 

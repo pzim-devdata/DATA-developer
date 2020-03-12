@@ -10,7 +10,7 @@
 - [Creation of a huge SQL database](#--creation-of-a-huge-sql-database)
 - [Other projects](#--other-projects)
 - [Licence](#--licence)
-- [Contact](#--Contact)
+- [Contact](#--contact-email)
 
 
 --------------------------------------------------------

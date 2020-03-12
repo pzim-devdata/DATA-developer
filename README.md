@@ -99,6 +99,13 @@ Vous y trouverez :
 - Les projets en groupe
 
 
+--------------------------------------------
+
+
+## Contact
+Created by [@pzim](https://www.pzim.fr/) - feel free to contact me!
+
+
 
 
 

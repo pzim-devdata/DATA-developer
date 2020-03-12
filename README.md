@@ -3,7 +3,7 @@
 [Mes attestations et diplômes de formation 🎓](https://github.com/pzim-devdata/Skills-and-training-certificates)
 
 
-## Table des matiéres :
+## Table des matières :
 - [Chef-d-oeuvre](#--chef-d-oeuvre)
 - [Work experience in a company](#--work-experience)
 - [Data Viz](#--data-viz)

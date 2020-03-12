@@ -1,5 +1,14 @@
 # Projets effectués en tant que Dev Python DATA :
-[![GitHub license](https://img.shields.io/github/license/pzim-devdata/Tools-for-Debian?style=plastic)](https://github.com/pzim-devdata/Tools-for-Debian/blob/master/LICENSE)    ![](https://img.shields.io/badge/Works%20with-Python%203-red?style=plastic)       [![GitHub issues](https://img.shields.io/github/issues/pzim-devdata/Tools-for-Debian?style=plastic)](https://github.com/pzim-devdata/Tools-for-Debian/issues)    ![GitHub repo size](https://img.shields.io/github/repo-size/pzim-devdata/Tools-for-Debian?style=plastic)    ![GitHub All Releases](https://img.shields.io/github/downloads/pzim-devdata/Tools-for-Debian/total?style=plastic)    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/pzim-devdata/Tools-for-Debian?style=plastic)    [![GitHub commits](https://img.shields.io/github/commits-since/pzim-devdata/Tools-for-Debian/v1.0.0.svg?style=plastic)](https://GitHub.com/pzim-devata/Tools-for-Debian/commit/)
+[![GitHub license](https://img.shields.io/github/license/pzim-devdata/
+DATA-developer?style=plastic)](https://github.com/pzim-devdata/
+DATA-developer/blob/master/LICENSE)    ![](https://img.shields.io/badge/Works%20with-Python%203-red?style=plastic)       [![GitHub issues](https://img.shields.io/github/issues/pzim-devdata/
+DATA-developer?style=plastic)](https://github.com/pzim-devdata/
+DATA-developer/issues)    ![GitHub repo size](https://img.shields.io/github/repo-size/pzim-devdata/
+DATA-developer?style=plastic)    ![GitHub All Releases](https://img.shields.io/github/downloads/pzim-devdata/
+DATA-developer/total?style=plastic)    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/pzim-devdata/
+DATA-developer?style=plastic)    [![GitHub commits](https://img.shields.io/github/commits-since/pzim-devdata/
+DATA-developer/v1.0.0.svg?style=plastic)](https://GitHub.com/pzim-devata/
+DATA-developer/commit/)
 
 
 [Mes attestations et diplômes de formation 🎓](https://github.com/pzim-devdata/Skills-and-training-certificates)

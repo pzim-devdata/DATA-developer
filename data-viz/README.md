@@ -1,4 +1,5 @@
 # Data Viz
+![GitHub](https://img.shields.io/github/license/pzim-devdata/DATA-developer?style=plastic)    ![](https://img.shields.io/badge/Works%20with-Python%203-red?style=plastic)    [![GitHub issues](https://img.shields.io/github/issues/pzim-devdata/DATA-developer?style=plastic)](https://github.com/pzim-devdata/DATA-developer/issues)    ![GitHub repo size](https://img.shields.io/github/repo-size/pzim-devdata/DATA-developer?style=plastic)    ![GitHub All Releases](https://img.shields.io/github/downloads/pzim-devdata/DATA-developer/total?style=plastic)    ![GitHub release (latest by date)](https://img.shields.io/github/v/release/pzim-devdata/DATA-developer?style=plastic)    ![GitHub commits since tagged version (branch)](https://img.shields.io/github/commits-since/pzim-devdata/DATA-developer/v1.0.0)    ![GitHub language count](https://img.shields.io/github/languages/count/pzim-devdata/DATA-developer?style=plastic)
 ## Il s'agit d'un projet de Data Viz écrit en Python qui analyses les éléctions présidentielles de 2012
 ### [Télécharger le fichier zip data-viz :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/data-viz.zip)
 

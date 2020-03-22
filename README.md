@@ -10,9 +10,9 @@
 - [Work experience in a company](#--work-experience)
 - [Data Viz](#--data-viz)
 - [Creation of a huge SQL database](#--creation-of-a-huge-sql-database)
+- [Words of the day](#--words-of-the-day)
 - [Other projects](#--other-projects)
 - [Licence](#--licence)
-- [Words of the day](#--words-of-the-day)
 - [Contact](#--contact-email)
 
 

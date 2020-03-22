@@ -96,7 +96,9 @@ Le projet consiste à :
 
 
 ## - [Words of the day](https://github.com/pzim-devdata/Git_repo)
-Voice les mots tendances dans l'actu Twitter. Ceci est mis à jour automatiquement depuis un serveur distant. Je suis le créateur de ce code écrit en Python.
+Voici les mots tendances dans l'actu Twitter. Ceci est mis à jour automatiquement depuis un serveur distant. Je suis le créateur de ce code écrit en Python.
+
+
 ![](https://raw.githubusercontent.com/pzim-devdata/Git_repo/master/mots_du_jour.png)
 
 

@@ -6,11 +6,11 @@
 
 
 ## Table des matières :
+- [Words of the day](#--words-of-the-day)
 - [Chef-d-oeuvre](#--chef-d-oeuvre)
 - [Work experience in a company](#--work-experience)
 - [Data Viz](#--data-viz)
 - [Creation of a huge SQL database](#--creation-of-a-huge-sql-database)
-- [Words of the day](#--words-of-the-day)
 - [Other projects](#--other-projects)
 - [Licence](#--licence)
 - [Contact](#--contact-email)
@@ -19,6 +19,13 @@
 
 --------------------------------------------------------
 
+## - [Words of the day](https://github.com/pzim-devdata/Git_repo)
+Voici les mots tendances dans l'actu Twitter. Ceci est mis à jour automatiquement depuis un serveur distant. Je suis le créateur de ce code écrit en Python.
+
+
+![](https://raw.githubusercontent.com/pzim-devdata/Git_repo/master/mots_du_jour.png)
+
+--------------------------------------------------------
 
 ## - [Chef-d-oeuvre](https://github.com/pzim-devdata/DATA-developer/tree/master/chef-d'oeuvre)
 Il s'agit du projet de fin de formation utilisant Python, MongoDB et MySQL
@@ -93,14 +100,6 @@ Le projet consiste à :
 - Créer un script pour insérer un grand nombre de données (10888 lignes)
 - Créer un script de requêtes pour tester la base de données
 - Sauvegarder la base de données
-
-
-## - [Words of the day](https://github.com/pzim-devdata/Git_repo)
-Voici les mots tendances dans l'actu Twitter. Ceci est mis à jour automatiquement depuis un serveur distant. Je suis le créateur de ce code écrit en Python.
-
-
-![](https://raw.githubusercontent.com/pzim-devdata/Git_repo/master/mots_du_jour.png)
-
 
 --------------------------------------------
 

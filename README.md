@@ -12,7 +12,9 @@
 - [Creation of a huge SQL database](#--creation-of-a-huge-sql-database)
 - [Other projects](#--other-projects)
 - [Licence](#--licence)
+- [Words of the day](#--words-of-the-day)
 - [Contact](#--contact-email)
+
 
 
 --------------------------------------------------------
@@ -91,6 +93,12 @@ Le projet consiste à :
 - Créer un script pour insérer un grand nombre de données (10888 lignes)
 - Créer un script de requêtes pour tester la base de données
 - Sauvegarder la base de données
+
+
+## - [Words of the day](https://github.com/pzim-devdata/Git_repo)
+Voice les mots tendances dans l'actu Twitter. Ceci est mis à jour automatiquement depuis un serveur distant. Je suis le créateur de ce code écrit en Python.
+![](https://raw.githubusercontent.com/pzim-devdata/Git_repo/master/mots_du_jour.png)
+
 
 --------------------------------------------
 

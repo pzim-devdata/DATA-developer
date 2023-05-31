@@ -52,7 +52,7 @@ Le projet consiste à :
 ## - [Work experience](https://github.com/pzim-devdata/DATA-developer/tree/master/work%20experience)
 Il s'agit des programmes effectués durant mon stage en entreprise
 
-[Télécharger tout le projet :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/V1.0.0/work-experiencer.zip)
+[Télécharger tout le projet :inbox_tray:](https://github.com/pzim-devdata/DATA-developer/releases/download/v1.0.0/work-experiencer.zip)
 
 Voici les 3 programmes effectués durant le stage :
 
